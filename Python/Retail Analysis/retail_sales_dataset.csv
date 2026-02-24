@@ -1,0 +1,201 @@
+id,quantity,price_per_unit,total_sales,discount_percent,product_category,store_location,payment_method,customer_type
+1,5,478,2390,10,Books,Los Angeles,Cash,VIP
+2,7,353,2471,0,Books,Los Angeles,Online Payment,New
+3,8,73,584,20,Groceries,Chicago,Online Payment,New
+4,18,480,8640,5,Electronics,Miami,Credit Card,New
+5,6,357,2142,10,Electronics,Miami,Cash,Regular
+6,20,371,7420,20,Electronics,Chicago,Online Payment,Returning
+7,19,394,7486,20,Groceries,Chicago,Credit Card,VIP
+8,15,88,1320,15,Clothing,Chicago,Credit Card,New
+9,12,360,4320,10,Electronics,Chicago,Cash,Regular
+10,19,224,4256,0,Groceries,Miami,Online Payment,VIP
+11,19,388,7372,20,Clothing,Miami,Cash,Returning
+12,10,89,890,5,Clothing,New York,Debit Card,VIP
+13,19,474,9006,5,Clothing,Chicago,Online Payment,VIP
+14,17,396,6732,5,Clothing,Chicago,Credit Card,New
+15,12,304,3648,15,Electronics,Chicago,Credit Card,VIP
+16,11,489,5379,10,Groceries,Chicago,Debit Card,Returning
+17,12,162,1944,15,Books,Miami,Credit Card,Regular
+18,3,466,1398,5,Groceries,Houston,Credit Card,Returning
+19,18,311,5598,10,Electronics,Miami,Online Payment,Returning
+20,10,204,2040,20,Groceries,Chicago,Debit Card,VIP
+21,20,122,2440,15,Electronics,Miami,Credit Card,VIP
+22,3,288,864,5,Electronics,Chicago,Online Payment,New
+23,10,387,3870,15,Electronics,Los Angeles,Online Payment,VIP
+24,1,395,395,20,Books,Houston,Credit Card,VIP
+25,5,332,1660,20,Clothing,New York,Credit Card,Returning
+26,8,205,1640,0,Furniture,Miami,Cash,New
+27,1,297,297,15,Clothing,Chicago,Online Payment,Returning
+28,18,441,7938,15,Books,New York,Online Payment,New
+29,18,305,5490,10,Groceries,Miami,Online Payment,Returning
+30,3,289,867,10,Clothing,Houston,Cash,Returning
+31,15,300,4500,15,Groceries,New York,Cash,VIP
+32,18,170,3060,5,Groceries,Houston,Credit Card,Regular
+33,9,255,2295,5,Electronics,Houston,Online Payment,VIP
+34,11,93,1023,0,Electronics,Los Angeles,Credit Card,New
+35,16,385,6160,15,Books,Los Angeles,Credit Card,Regular
+36,15,48,720,5,Furniture,New York,Cash,New
+37,20,416,8320,0,Furniture,Chicago,Online Payment,VIP
+38,5,62,310,5,Furniture,Chicago,Cash,New
+39,12,276,3312,10,Furniture,Chicago,Debit Card,VIP
+40,17,282,4794,5,Clothing,Houston,Credit Card,VIP
+41,10,273,2730,20,Books,Chicago,Cash,VIP
+42,1,424,424,10,Furniture,Houston,Cash,Returning
+43,12,336,4032,10,Furniture,New York,Cash,New
+44,9,37,333,0,Groceries,Los Angeles,Credit Card,New
+45,19,11,209,0,Groceries,Los Angeles,Debit Card,New
+46,2,424,848,20,Electronics,Houston,Debit Card,Returning
+47,2,375,750,5,Groceries,New York,Credit Card,VIP
+48,11,423,4653,20,Clothing,Houston,Cash,VIP
+49,6,29,174,5,Furniture,Chicago,Online Payment,New
+50,2,361,722,0,Clothing,Chicago,Online Payment,Regular
+51,11,498,5478,10,Furniture,Los Angeles,Credit Card,Returning
+52,4,309,1236,5,Furniture,Miami,Credit Card,Returning
+53,15,97,1455,0,Electronics,New York,Debit Card,New
+54,5,107,535,15,Clothing,Los Angeles,Debit Card,New
+55,1,288,288,10,Electronics,Houston,Credit Card,Returning
+56,11,141,1551,0,Books,Miami,Debit Card,Regular
+57,18,316,5688,15,Furniture,New York,Online Payment,Returning
+58,20,437,8740,0,Groceries,New York,Credit Card,Regular
+59,2,122,244,20,Electronics,Chicago,Debit Card,New
+60,2,485,970,20,Groceries,Chicago,Credit Card,New
+61,12,412,4944,5,Clothing,Chicago,Cash,VIP
+62,5,462,2310,10,Electronics,Chicago,Online Payment,VIP
+63,19,483,9177,15,Groceries,Houston,Debit Card,VIP
+64,15,234,3510,10,Furniture,Houston,Debit Card,VIP
+65,17,406,6902,15,Clothing,Chicago,Cash,VIP
+66,17,447,7599,0,Electronics,Houston,Cash,New
+67,18,42,756,10,Groceries,Los Angeles,Credit Card,VIP
+68,6,336,2016,0,Electronics,New York,Online Payment,Regular
+69,3,101,303,20,Groceries,Houston,Debit Card,VIP
+70,3,369,1107,5,Groceries,Miami,Online Payment,VIP
+71,13,97,1261,5,Books,Chicago,Online Payment,Regular
+72,9,355,3195,0,Electronics,New York,Debit Card,New
+73,19,157,2983,10,Electronics,Miami,Cash,New
+74,5,186,930,10,Furniture,Houston,Online Payment,New
+75,15,65,975,0,Books,Chicago,Online Payment,Returning
+76,17,282,4794,10,Electronics,Houston,Debit Card,Returning
+77,9,99,891,10,Books,Los Angeles,Credit Card,New
+78,17,458,7786,15,Furniture,New York,Online Payment,Regular
+79,1,119,119,0,Books,New York,Cash,Returning
+80,9,326,2934,20,Books,Chicago,Debit Card,Returning
+81,4,335,1340,10,Electronics,New York,Debit Card,VIP
+82,10,237,2370,0,Electronics,New York,Online Payment,Returning
+83,18,393,7074,15,Clothing,Chicago,Credit Card,Returning
+84,3,438,1314,20,Electronics,Houston,Credit Card,Regular
+85,8,104,832,20,Groceries,Los Angeles,Debit Card,Returning
+86,7,160,1120,10,Clothing,Miami,Cash,Returning
+87,2,168,336,10,Clothing,Chicago,Cash,New
+88,9,490,4410,5,Clothing,New York,Debit Card,New
+89,18,264,4752,10,Groceries,Los Angeles,Cash,New
+90,20,136,2720,15,Furniture,Houston,Debit Card,Returning
+91,5,191,955,10,Groceries,Chicago,Credit Card,Regular
+92,5,461,2305,10,Books,Houston,Debit Card,Returning
+93,8,18,144,10,Furniture,New York,Credit Card,Returning
+94,3,411,1233,20,Furniture,Miami,Online Payment,New
+95,3,323,969,20,Clothing,Houston,Credit Card,New
+96,15,310,4650,10,Books,Chicago,Online Payment,New
+97,7,379,2653,15,Clothing,Houston,Cash,Regular
+98,19,107,2033,15,Furniture,Miami,Debit Card,Returning
+99,7,223,1561,20,Books,Chicago,Debit Card,New
+100,17,118,2006,0,Electronics,Los Angeles,Online Payment,VIP
+101,17,227,3859,0,Books,Chicago,Online Payment,VIP
+102,5,137,685,0,Electronics,Houston,Cash,VIP
+103,12,78,936,0,Books,Miami,Credit Card,VIP
+104,2,374,748,10,Furniture,Chicago,Debit Card,Regular
+105,7,5,35,15,Groceries,Chicago,Cash,Returning
+106,19,151,2869,5,Electronics,Los Angeles,Credit Card,VIP
+107,14,408,5712,5,Furniture,Miami,Credit Card,Regular
+108,6,104,624,20,Electronics,Miami,Online Payment,Returning
+109,1,402,402,0,Clothing,Houston,Cash,Regular
+110,4,382,1528,10,Electronics,Miami,Cash,Returning
+111,12,266,3192,20,Clothing,New York,Online Payment,Returning
+112,15,37,555,10,Clothing,Miami,Cash,Regular
+113,5,106,530,0,Electronics,New York,Cash,Regular
+114,2,149,298,15,Groceries,New York,Online Payment,Regular
+115,17,252,4284,20,Furniture,Chicago,Online Payment,Regular
+116,2,112,224,0,Clothing,New York,Debit Card,Regular
+117,5,356,1780,5,Books,New York,Online Payment,New
+118,1,29,29,20,Groceries,New York,Credit Card,Regular
+119,3,76,228,20,Clothing,Miami,Cash,New
+120,18,9,162,5,Electronics,Miami,Online Payment,Regular
+121,1,99,99,0,Groceries,Chicago,Credit Card,Regular
+122,10,420,4200,10,Books,Miami,Online Payment,Returning
+123,14,403,5642,0,Groceries,Miami,Credit Card,New
+124,20,488,9760,0,Clothing,Chicago,Online Payment,Regular
+125,17,153,2601,5,Books,New York,Cash,VIP
+126,16,40,640,15,Books,Miami,Credit Card,New
+127,18,251,4518,10,Electronics,New York,Online Payment,VIP
+128,1,367,367,15,Groceries,Chicago,Online Payment,New
+129,17,484,8228,10,Furniture,Houston,Credit Card,Regular
+130,9,453,4077,0,Books,Chicago,Debit Card,Returning
+131,5,133,665,10,Groceries,Los Angeles,Cash,Regular
+132,9,113,1017,10,Groceries,Chicago,Debit Card,Returning
+133,10,208,2080,20,Furniture,New York,Credit Card,Returning
+134,2,484,968,5,Books,Houston,Cash,VIP
+135,13,493,6409,20,Books,New York,Online Payment,New
+136,5,244,1220,20,Books,Los Angeles,Cash,VIP
+137,19,167,3173,20,Groceries,Los Angeles,Debit Card,Returning
+138,2,279,558,5,Electronics,Chicago,Online Payment,VIP
+139,13,481,6253,0,Furniture,Chicago,Cash,Regular
+140,12,100,1200,20,Groceries,Chicago,Credit Card,Returning
+141,14,269,3766,0,Furniture,Houston,Online Payment,New
+142,10,214,2140,0,Books,Houston,Online Payment,Regular
+143,12,299,3588,0,Groceries,New York,Online Payment,Returning
+144,8,18,144,5,Clothing,Miami,Cash,VIP
+145,15,369,5535,15,Books,Houston,Online Payment,Regular
+146,18,43,774,5,Clothing,Miami,Credit Card,Regular
+147,11,349,3839,20,Electronics,Los Angeles,Credit Card,Returning
+148,7,431,3017,10,Furniture,Chicago,Online Payment,New
+149,13,241,3133,15,Groceries,New York,Online Payment,New
+150,18,482,8676,10,Books,Los Angeles,Cash,Regular
+151,18,54,972,15,Electronics,Chicago,Credit Card,New
+152,1,151,151,15,Clothing,Miami,Online Payment,Returning
+153,8,147,1176,0,Books,Houston,Cash,Regular
+154,2,11,22,0,Clothing,Los Angeles,Credit Card,Returning
+155,14,330,4620,0,Groceries,Miami,Debit Card,Regular
+156,13,475,6175,10,Groceries,Chicago,Debit Card,Regular
+157,8,31,248,0,Groceries,Chicago,Credit Card,Regular
+158,20,451,9020,10,Clothing,Los Angeles,Online Payment,VIP
+159,8,384,3072,15,Electronics,Chicago,Credit Card,New
+160,3,198,594,10,Books,New York,Online Payment,VIP
+161,12,129,1548,20,Books,Miami,Cash,New
+162,14,51,714,20,Electronics,Los Angeles,Cash,Regular
+163,1,158,158,20,Electronics,Miami,Cash,Returning
+164,20,426,8520,20,Electronics,Los Angeles,Cash,Regular
+165,16,47,752,10,Furniture,Miami,Credit Card,Returning
+166,14,69,966,15,Furniture,Chicago,Credit Card,VIP
+167,18,338,6084,15,Groceries,Miami,Online Payment,Returning
+168,1,159,159,15,Electronics,Los Angeles,Debit Card,Returning
+169,13,219,2847,5,Electronics,Miami,Online Payment,Returning
+170,20,164,3280,5,Furniture,Houston,Online Payment,New
+171,6,117,702,0,Books,Miami,Credit Card,Regular
+172,13,47,611,15,Clothing,Chicago,Online Payment,Returning
+173,1,431,431,10,Books,Houston,Debit Card,Returning
+174,1,446,446,10,Electronics,Houston,Online Payment,VIP
+175,20,250,5000,10,Groceries,New York,Online Payment,New
+176,7,77,539,10,Electronics,Chicago,Credit Card,Regular
+177,18,362,6516,15,Furniture,Los Angeles,Cash,VIP
+178,5,146,730,0,Furniture,Los Angeles,Cash,Returning
+179,15,206,3090,0,Electronics,Los Angeles,Credit Card,Regular
+180,19,368,6992,5,Clothing,Miami,Online Payment,VIP
+181,4,29,116,0,Groceries,Houston,Online Payment,VIP
+182,15,394,5910,5,Furniture,Los Angeles,Credit Card,VIP
+183,18,139,2502,0,Electronics,Miami,Debit Card,Regular
+184,15,300,4500,10,Clothing,New York,Cash,Regular
+185,12,63,756,5,Clothing,Miami,Cash,Regular
+186,5,319,1595,15,Clothing,Houston,Debit Card,Returning
+187,8,168,1344,15,Books,Miami,Debit Card,Returning
+188,9,317,2853,5,Groceries,Miami,Debit Card,Regular
+189,11,309,3399,10,Groceries,Miami,Online Payment,Returning
+190,11,495,5445,20,Clothing,Chicago,Debit Card,New
+191,10,181,1810,5,Groceries,Houston,Credit Card,VIP
+192,14,125,1750,20,Electronics,Los Angeles,Debit Card,Regular
+193,11,223,2453,10,Books,Chicago,Online Payment,Returning
+194,16,478,7648,5,Groceries,New York,Online Payment,VIP
+195,15,323,4845,0,Groceries,Chicago,Cash,New
+196,20,354,7080,5,Books,Los Angeles,Online Payment,VIP
+197,11,481,5291,5,Clothing,Chicago,Debit Card,Returning
+198,9,407,3663,0,Furniture,Miami,Online Payment,Regular
+199,14,393,5502,10,Clothing,Los Angeles,Debit Card,Regular
+200,18,167,3006,20,Electronics,New York,Credit Card,Returning
