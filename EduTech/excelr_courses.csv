@@ -1,0 +1,101 @@
+company,course,review,rating,cost,duration,mode,placement,assistance,enrollment,schlorship,mobile_app,certification,language,offered
+ExcelR,Data Science,Outstanding,4.3,74200,4 Months,Offline,Yes,Yes,359,Available,No,Yes,Tamil,Weekday
+ExcelR,AI Fundamentals,Very Good,3.3,53126,12 Months,Offline,Yes,Yes,389,Not Available,Yes,No,Tamil,Fast Track
+ExcelR,Cloud Computing,Good,3.4,23715,6 Months,Offline,Yes,No,271,Not Available,No,No,Tamil,Weekend
+ExcelR,DevOps,Very Good,4.0,33008,8 Months,Offline,No,No,97,Available,Yes,Yes,English,Weekend
+ExcelR,Java Development,Average,3.0,51924,4 Months,Online,Yes,No,436,Available,Yes,No,Tamil,Weekend
+ExcelR,Machine Learning,Good,4.2,29085,6 Months,Hybrid,Yes,Yes,329,Available,No,No,Tamil,Fast Track
+ExcelR,Java Development,Very Good,4.9,43218,9 Months,Online,No,No,109,Not Available,Yes,No,Hindi,Weekday
+ExcelR,Python Programming,Outstanding,3.4,70123,1 Months,Hybrid,No,No,95,Available,No,No,Tamil,Fast Track
+ExcelR,Java Development,Average,3.2,38615,1 Months,Hybrid,No,Yes,447,Available,No,No,Hindi,Weekend
+ExcelR,Machine Learning,Good,4.0,47035,8 Months,Offline,No,Yes,91,Available,Yes,Yes,Tamil,Fast Track
+ExcelR,Java Development,Average,4.4,40743,5 Months,Hybrid,No,No,321,Available,No,No,English,Fast Track
+ExcelR,Java Development,Excellent,4.9,20635,11 Months,Online,Yes,No,275,Available,Yes,Yes,Tamil,Weekday
+ExcelR,AI Fundamentals,Good,3.1,19969,7 Months,Online,Yes,No,413,Not Available,Yes,Yes,Hindi,Weekend
+ExcelR,Data Engineering,Outstanding,3.4,58645,1 Months,Online,Yes,No,193,Not Available,No,Yes,Hindi,Weekday
+ExcelR,Data Science,Excellent,4.3,78163,8 Months,Offline,Yes,Yes,320,Not Available,Yes,Yes,Hindi,Weekday
+ExcelR,DevOps,Very Good,4.1,17961,5 Months,Online,No,Yes,367,Not Available,No,No,Tamil,Weekday
+ExcelR,Data Engineering,Average,4.6,22059,6 Months,Offline,No,No,225,Available,No,No,Hindi,Fast Track
+ExcelR,AI Fundamentals,Outstanding,3.8,42604,1 Months,Hybrid,Yes,Yes,95,Available,Yes,No,English,Weekday
+ExcelR,DevOps,Average,4.2,77467,8 Months,Hybrid,Yes,No,436,Not Available,No,Yes,Tamil,Fast Track
+ExcelR,Machine Learning,Good,3.6,77870,1 Months,Offline,Yes,No,191,Available,Yes,No,Tamil,Fast Track
+ExcelR,Machine Learning,Excellent,4.4,73164,12 Months,Offline,Yes,No,73,Available,No,Yes,Tamil,Fast Track
+ExcelR,DevOps,Excellent,4.1,63278,4 Months,Online,No,Yes,116,Not Available,Yes,No,Hindi,Fast Track
+ExcelR,Python Programming,Very Good,4.2,45374,5 Months,Offline,No,No,245,Available,Yes,No,Tamil,Weekend
+ExcelR,Data Engineering,Good,3.4,35901,2 Months,Hybrid,Yes,Yes,354,Available,No,No,Tamil,Weekday
+ExcelR,Java Development,Excellent,4.3,45953,12 Months,Online,No,Yes,363,Available,Yes,No,Tamil,Weekday
+ExcelR,Java Development,Good,4.3,35305,9 Months,Online,No,Yes,202,Available,Yes,Yes,English,Weekday
+ExcelR,Data Engineering,Outstanding,4.9,56958,4 Months,Hybrid,Yes,Yes,154,Available,No,Yes,Hindi,Fast Track
+ExcelR,Machine Learning,Excellent,3.7,58928,12 Months,Offline,Yes,No,363,Available,Yes,No,Hindi,Weekend
+ExcelR,Machine Learning,Good,3.2,33192,9 Months,Offline,No,Yes,78,Available,No,Yes,Hindi,Weekend
+ExcelR,Java Development,Good,3.8,63828,2 Months,Online,Yes,No,386,Not Available,Yes,No,English,Weekend
+ExcelR,Full Stack Development,Average,4.4,60406,2 Months,Online,Yes,Yes,197,Available,No,No,Hindi,Weekday
+ExcelR,DevOps,Very Good,3.8,41675,6 Months,Online,Yes,No,398,Available,No,Yes,Tamil,Fast Track
+ExcelR,Business Analytics,Average,3.2,64861,9 Months,Offline,Yes,Yes,454,Available,Yes,No,Tamil,Weekend
+ExcelR,Java Development,Very Good,4.4,21711,3 Months,Online,Yes,Yes,276,Available,Yes,No,Hindi,Fast Track
+ExcelR,Data Engineering,Good,3.3,61417,11 Months,Offline,Yes,No,386,Not Available,Yes,Yes,English,Weekend
+ExcelR,AI Fundamentals,Excellent,4.3,62725,3 Months,Offline,Yes,Yes,112,Not Available,No,No,English,Fast Track
+ExcelR,Python Programming,Average,4.5,53123,1 Months,Hybrid,No,No,238,Not Available,Yes,Yes,Tamil,Fast Track
+ExcelR,Data Science,Outstanding,3.4,27464,9 Months,Hybrid,No,Yes,439,Not Available,No,No,English,Fast Track
+ExcelR,Machine Learning,Good,4.1,32463,8 Months,Hybrid,No,No,201,Available,Yes,Yes,Tamil,Weekend
+ExcelR,Business Analytics,Good,3.8,20329,8 Months,Offline,No,Yes,364,Not Available,Yes,Yes,English,Weekday
+ExcelR,Business Analytics,Average,4.4,74272,4 Months,Online,Yes,No,343,Available,No,No,English,Fast Track
+ExcelR,Python Programming,Average,4.6,58046,4 Months,Online,Yes,No,194,Not Available,Yes,Yes,English,Weekday
+ExcelR,Business Analytics,Outstanding,3.8,50229,9 Months,Hybrid,Yes,No,356,Not Available,No,Yes,Tamil,Weekday
+ExcelR,DevOps,Average,3.1,46258,12 Months,Online,Yes,No,392,Not Available,No,No,English,Fast Track
+ExcelR,Cloud Computing,Outstanding,4.8,70450,7 Months,Hybrid,Yes,Yes,119,Not Available,No,No,Hindi,Weekend
+ExcelR,Full Stack Development,Average,4.3,66735,5 Months,Hybrid,No,No,76,Not Available,No,No,English,Weekday
+ExcelR,DevOps,Outstanding,3.0,34313,9 Months,Hybrid,No,No,211,Available,Yes,Yes,Tamil,Weekend
+ExcelR,AI Fundamentals,Excellent,3.2,27937,4 Months,Hybrid,No,No,205,Available,No,Yes,English,Weekend
+ExcelR,Java Development,Outstanding,4.9,25974,1 Months,Offline,No,No,166,Available,No,Yes,Tamil,Weekday
+ExcelR,Data Engineering,Average,5.0,18290,2 Months,Hybrid,No,Yes,313,Available,No,Yes,Tamil,Weekend
+ExcelR,Python Programming,Good,4.5,70809,7 Months,Hybrid,Yes,Yes,174,Available,No,No,Hindi,Weekday
+ExcelR,Business Analytics,Average,3.2,56668,2 Months,Online,Yes,Yes,50,Not Available,No,No,Tamil,Weekend
+ExcelR,Business Analytics,Good,3.8,64925,9 Months,Online,No,No,492,Not Available,Yes,No,English,Fast Track
+ExcelR,Data Science,Very Good,4.4,50213,6 Months,Hybrid,Yes,No,370,Available,No,Yes,English,Weekday
+ExcelR,Business Analytics,Average,3.4,38686,1 Months,Hybrid,No,No,344,Not Available,No,No,Tamil,Weekend
+ExcelR,Business Analytics,Outstanding,4.3,74649,5 Months,Online,Yes,No,147,Not Available,No,Yes,Hindi,Weekend
+ExcelR,Data Science,Good,3.5,54563,9 Months,Online,No,Yes,216,Available,Yes,No,Hindi,Fast Track
+ExcelR,DevOps,Very Good,3.1,64398,7 Months,Online,Yes,No,170,Not Available,Yes,No,Tamil,Weekday
+ExcelR,Full Stack Development,Excellent,3.6,46096,6 Months,Online,No,No,148,Available,Yes,Yes,Tamil,Weekend
+ExcelR,Python Programming,Average,4.9,76565,9 Months,Offline,Yes,Yes,109,Not Available,No,Yes,Tamil,Weekend
+ExcelR,Data Science,Excellent,3.8,39602,9 Months,Hybrid,No,Yes,201,Not Available,Yes,No,Hindi,Weekend
+ExcelR,Java Development,Good,3.8,40201,3 Months,Offline,No,Yes,346,Not Available,No,Yes,Tamil,Weekend
+ExcelR,Java Development,Excellent,3.8,49706,7 Months,Online,No,No,125,Available,Yes,Yes,English,Weekday
+ExcelR,Python Programming,Outstanding,3.2,21255,5 Months,Hybrid,Yes,No,221,Not Available,Yes,No,Hindi,Weekend
+ExcelR,Full Stack Development,Excellent,3.0,66535,11 Months,Hybrid,Yes,No,261,Available,Yes,Yes,Tamil,Weekend
+ExcelR,DevOps,Outstanding,4.4,26827,12 Months,Offline,No,Yes,396,Not Available,No,Yes,Tamil,Weekday
+ExcelR,Python Programming,Good,3.3,18032,2 Months,Online,Yes,No,358,Available,No,No,English,Weekday
+ExcelR,Machine Learning,Good,4.9,47729,10 Months,Hybrid,Yes,Yes,435,Available,No,Yes,Hindi,Fast Track
+ExcelR,Data Engineering,Average,3.2,43793,12 Months,Offline,No,Yes,159,Not Available,No,Yes,Tamil,Weekday
+ExcelR,AI Fundamentals,Average,3.8,20974,8 Months,Online,No,No,116,Available,No,No,Tamil,Fast Track
+ExcelR,Machine Learning,Outstanding,4.0,62807,10 Months,Online,No,Yes,292,Not Available,Yes,No,English,Weekend
+ExcelR,AI Fundamentals,Very Good,3.9,47577,7 Months,Hybrid,Yes,No,247,Not Available,No,No,Hindi,Weekend
+ExcelR,Cloud Computing,Good,3.2,71922,3 Months,Hybrid,Yes,No,250,Not Available,Yes,Yes,Hindi,Weekend
+ExcelR,Cloud Computing,Excellent,3.8,60465,5 Months,Offline,No,Yes,185,Available,No,Yes,Tamil,Weekend
+ExcelR,Machine Learning,Good,4.6,44490,12 Months,Offline,Yes,No,246,Not Available,Yes,Yes,Tamil,Fast Track
+ExcelR,Full Stack Development,Good,4.4,50314,7 Months,Hybrid,Yes,No,337,Available,No,Yes,English,Weekend
+ExcelR,Data Science,Excellent,4.9,25754,5 Months,Online,Yes,Yes,215,Not Available,Yes,Yes,Tamil,Fast Track
+ExcelR,Machine Learning,Outstanding,4.3,28798,4 Months,Online,No,Yes,414,Not Available,Yes,Yes,Tamil,Weekend
+ExcelR,DevOps,Outstanding,4.0,64673,1 Months,Offline,No,Yes,430,Not Available,Yes,No,English,Weekend
+ExcelR,Data Engineering,Very Good,4.4,42235,9 Months,Online,Yes,No,239,Not Available,Yes,Yes,Hindi,Weekend
+ExcelR,Python Programming,Very Good,3.4,16878,4 Months,Hybrid,No,No,442,Not Available,Yes,Yes,English,Fast Track
+ExcelR,Java Development,Excellent,3.1,17244,10 Months,Offline,Yes,Yes,91,Not Available,Yes,Yes,English,Weekday
+ExcelR,Python Programming,Outstanding,3.4,57661,6 Months,Offline,No,No,173,Available,Yes,No,Tamil,Weekday
+ExcelR,Python Programming,Good,4.2,68196,5 Months,Online,No,No,66,Available,No,No,Hindi,Weekend
+ExcelR,Cloud Computing,Excellent,3.3,62977,9 Months,Offline,Yes,No,136,Not Available,No,Yes,Tamil,Weekend
+ExcelR,Data Science,Good,4.3,69222,4 Months,Offline,No,Yes,396,Available,No,Yes,Hindi,Weekend
+ExcelR,Python Programming,Good,3.9,51314,3 Months,Online,Yes,Yes,440,Not Available,No,Yes,Tamil,Weekday
+ExcelR,Cloud Computing,Excellent,3.8,44067,4 Months,Offline,No,Yes,403,Available,Yes,No,Tamil,Weekend
+ExcelR,Java Development,Excellent,4.2,68115,11 Months,Hybrid,Yes,Yes,79,Available,Yes,Yes,English,Weekday
+ExcelR,Business Analytics,Average,3.4,60301,1 Months,Hybrid,Yes,Yes,289,Not Available,No,Yes,English,Weekend
+ExcelR,DevOps,Excellent,3.1,53198,1 Months,Online,Yes,Yes,361,Not Available,No,No,English,Weekend
+ExcelR,Cloud Computing,Outstanding,4.6,64345,9 Months,Online,Yes,No,51,Not Available,No,Yes,English,Weekend
+ExcelR,Data Engineering,Good,4.8,44515,11 Months,Hybrid,No,No,320,Available,Yes,No,English,Weekend
+ExcelR,Business Analytics,Excellent,4.7,38340,6 Months,Offline,Yes,Yes,321,Not Available,No,No,Hindi,Weekday
+ExcelR,AI Fundamentals,Very Good,3.2,16646,1 Months,Offline,No,No,329,Available,Yes,Yes,Tamil,Weekday
+ExcelR,AI Fundamentals,Outstanding,3.7,66973,5 Months,Online,Yes,Yes,299,Available,No,No,Tamil,Weekday
+ExcelR,Data Engineering,Good,5.0,45056,5 Months,Offline,Yes,No,174,Available,Yes,Yes,Tamil,Weekend
+ExcelR,Machine Learning,Very Good,4.6,47173,1 Months,Online,No,No,423,Not Available,No,No,Tamil,Weekend
+ExcelR,Python Programming,Average,4.6,52179,6 Months,Online,Yes,Yes,297,Available,No,Yes,English,Weekday
+ExcelR,Data Engineering,Excellent,4.3,64716,10 Months,Online,Yes,No,233,Not Available,No,Yes,Tamil,Weekend
