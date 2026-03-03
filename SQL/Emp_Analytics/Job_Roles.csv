@@ -1,0 +1,6 @@
+role_id,role_name,min_salary,max_salary
+1,Manager,30000.0,80000.0
+2,Analyst,25000.0,60000.0
+3,Developer,40000.0,120000.0
+4,Executive,20000.0,50000.0
+5,Team Lead,50000.0,150000.0
